@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#title {
+  text-align: center;
+  margin: 20px;
+}
+
+form div {
+  margin: 20px 0px;
+}
